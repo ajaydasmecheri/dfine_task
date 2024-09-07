@@ -57,28 +57,28 @@ class Profile extends StatelessWidget {
                   ),
                 ),
                 ListTile(
-                  leading: Icon(Icons.notifications),
+                  leading: const Icon(Icons.notifications),
                   title: const Text('notification'),
                   onTap: () {
                     
                   },
                 ),
                 ListTile(
-                  leading: Icon(Icons.settings),
+                  leading: const Icon(Icons.settings),
                   title: const Text('general'),
                   onTap: () {
                     
                   },
                 ),
                 ListTile(
-                  leading: Icon(Icons.person),
+                  leading: const Icon(Icons.person),
                   title: const Text('account'),
                   onTap: () {
                     
                   },
                 ),
                 ListTile(
-                  leading: Icon(Icons.warning),
+                  leading: const Icon(Icons.warning),
                   title: const Text('about'),
                   onTap: () {
                     
