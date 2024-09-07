@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169193836775",
+    "project_id": "dfinetodo",
+    "storage_bucket": "dfinetodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169193836775:android:7c916b233041c3d61ed242",
+        "android_client_info": {
+          "package_name": "com.example.dfine_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvLqL4HMhGVFo-qPgoz3fblo813_qG_Po"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
